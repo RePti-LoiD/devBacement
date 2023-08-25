@@ -178,6 +178,7 @@ footer h3 {
     font-size: 26px;
     font-weight: 200;
     margin-top: 0px;
+    z-index: 5;
 }
 
 footer {
