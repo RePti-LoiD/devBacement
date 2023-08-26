@@ -1,0 +1,20 @@
+.pic-bg {
+    width: 100%;
+    height: 100vh;
+
+    background-image: url('/assets/img/RedTownWarfareImg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative; 
+}
+
+.bg-content h1 {
+    color: white;
+    font-size: 150px;
+}
